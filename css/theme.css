@@ -1953,6 +1953,26 @@ textarea.form-input {
 
 
 /* General */
+#app {
+  display: flex;
+  height: 100% !important;
+  width: 100% !important;
+  flex: 1;
+  flex-direction: column;
+}
+
+#kt_wrapper {
+  display: flex;
+  flex: 1 auto;
+  flex-direction: column;
+  min-width: 0;
+}
+
+#kt_content {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+}
 
 .header-mobile-fixed .header-mobile {
   z-index: 1000;
