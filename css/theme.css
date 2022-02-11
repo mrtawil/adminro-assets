@@ -2128,39 +2128,6 @@ textarea.form-input {
   }
 }
 
-#datatable-html_wrapper .th-actions {
-  width: 150px;
-}
-
-@media screen and (max-width: 1366px) {
-  #datatable-html_wrapper .th-actions {
-    width: 200px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  #datatable-html_wrapper .th-actions {
-    width: 230px;
-  }
-}
-
-#datatable-html_wrapper .th-status {
-  width: 110px;
-}
-
-@media screen and (max-width: 1366px) {
-  #datatable-html_wrapper .th-status {
-    width: 150px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  #datatable-html_wrapper .th-status {
-    width: 230px;
-  }
-}
-
-
 /* Subheader */
 
 #subheader_loader {
