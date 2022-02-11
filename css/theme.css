@@ -2115,19 +2115,6 @@ textarea.form-input {
 }
 
 
-/* Datatable */
-
-#datatable-html_wrapper .dataTables_length {
-  margin-right: 0 !important;
-  margin-left: 1rem !important;
-}
-
-@media screen and (max-width: 768px) {
-  #datatable-html_wrapper .dataTables_length {
-    margin: 0 !important;
-  }
-}
-
 /* Subheader */
 
 #subheader_loader {
