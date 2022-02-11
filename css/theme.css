@@ -2114,7 +2114,7 @@ textarea.form-input {
   z-index: 999999 !important;
 }
 
-.bulk-action-container .bootstrap-select {
+#bulk_action_form .bootstrap-select {
   width: 125px !important;
 }
 
