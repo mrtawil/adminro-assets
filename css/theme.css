@@ -2114,6 +2114,10 @@ textarea.form-input {
   z-index: 999999 !important;
 }
 
+.bulk-action-container .bootstrap-select {
+  width: 125px !important;
+}
+
 
 /* Subheader */
 
